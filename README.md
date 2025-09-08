@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 - 🔭 Freelancing in **Embedded Systems & IoT** (ESP32, AVR, Arduino, PIC)  
-- 🌱 Currently learning: **Embedded Software, Embedded Linux, AUTOSAR**  
+- 🌱 Currently learning: **Embedded Software**  
 - 🤝 Interested in **smart devices, electric mobility, and biomedical IoT systems**  
 - 💡 Active in **Problem Solving (ICPC, HackerRank, Codeforces)**  
 
@@ -21,11 +21,10 @@
 ## 💻 Languages
 - C / C++  
 - Embedded C  
-- Python (Basics)  
+- Python
 
 ## ⚙️ Tools & Technologies
-- Git, GitHub  
-- Linux / Ubuntu  
+- GitHub   
 - Firebase, MQTT, HTTP Protocols  
 - SolidWorks, AutoCAD, Proteus, EasyEDA  
 
@@ -33,23 +32,8 @@
 - VS Code  
 - Eclipse  
 - PlatformIO  
-- Arduino IDE  
-
----
-
-## 📌 Highlighted Projects
-- 🫀 **Safe Heart – IoT Smart Health Monitoring System (In Progress)**  
-  Wearable biomedical device with sensors (HR, SpO2, BP, ECG), ESP32 + SIM800L, Firebase cloud, Google Maps emergency alerts.  
-
-- 🛒 **Smart Shopping Cart**  
-  Displays product prices, measures weight, maintains 30cm following distance, mobile control via Bluetooth.  
-
-- 🏃 **Smart Treadmill (AVR Bootcamp)**  
-  PIR sensor detects user, auto start/stop, adjustable speed, reset function.  
-
-- 🎓 **Smart Attendance System**  
-  ESP32 + RFID with LED indicators and Excel logging for efficient student attendance tracking.  
-
+- Arduino IDE
+- 
 ---
 
 ## 🎓 Education

@@ -23,7 +23,7 @@
 🔗 <a href="https://github.com/MohamedEl-sawy">GitHub</a>
 </p>
 <p align="center">
-  <a href="Mohamed_Fawzy_Sawy_CV.pdf">
+  <a href="Mohamed_Fawzy_Resume.pdf">
     <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge"/>
   </a>
 </p>

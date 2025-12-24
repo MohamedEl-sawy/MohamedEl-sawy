@@ -2,28 +2,33 @@
   <img src="https://camo.githubusercontent.com/b3ce8fcb16b1cd0ac29fd3772d599bc62587f919aeb0e00e88344ebfd54b569c/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" alt="Welcome Banner" width="600"/>
 </p>
 
-## 📫 Connect With Me
-- 📧 Email: 0mohamedelsawy@gmail.com  
-- 💼 [LinkedIn](http://www.linkedin.com/in/mohamed-fawzy-b33ab8272)  
-- 🐙 [GitHub](https://github.com/MohamedEl-sawy)  
+<h1 align="center">👨‍💻 Mohamed Fawzy Sawy</h1>
+<h3 align="center">Mechatronics Engineer | Embedded Systems | Robotics | IoT</h3>
 
-# 👨‍💻 Mohamed Fawzy Sawy  
-### Mechatronics Engineer | Embedded Systems | Robotics & STEM Education
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-Embedded-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arduino-Robotics-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IoT-Cloud-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STEM-Education-purple?style=for-the-badge"/>
+</p>
 
-📍 Cairo, Egypt  
-📧 0mohamedelsawy@gmail.com  
-📱 +20 01008611382  
+<p align="center">
+📍 Cairo, Egypt &nbsp; | &nbsp;
+📧 0mohamedelsawy@gmail.com &nbsp; | &nbsp;
+📱 +20 01008611382
+</p>
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-fawzy-b33ab8272)  
-🔗 [GitHub](https://github.com/MohamedEl-sawy)
+<p align="center">
+🔗 <a href="https://www.linkedin.com/in/mohamed-fawzy-b33ab8272">LinkedIn</a> •
+🔗 <a href="https://github.com/MohamedEl-sawy">GitHub</a>
+</p>
 
 ---
 
-## 🧠 About Me
-I am a Mechatronics Engineer with a strong background in **embedded systems, robotics, and IoT**.  
-I have hands-on experience building complete systems starting from hardware design and firmware development to cloud-connected applications.
-
-I am also passionate about **STEM education**, robotics competitions, and mentoring students to build practical and innovative technical skills.
+## ⚡ Professional Summary
+Mechatronics Engineer with strong hands-on experience in **Embedded Systems, Robotics, and IoT**.  
+Experienced in building **end-to-end technical solutions**, mentoring students, training robotics teams, and contributing to **STEM education programs and competitions**.  
+Actively seeking roles in **Technical Management, Competition Management, and Advanced Robotics Instruction**.
 
 ---
 
@@ -57,10 +62,11 @@ I am also passionate about **STEM education**, robotics competitions, and mentor
 
 ## 🤖 Robotics & Competitions
 - Participated in and trained teams for:
-  - **WRO**
-  - **FLL**
-  - **VEX**
+  - **WRO** (World Robot Olympiad)
+  - **FLL** (FIRST LEGO League)
+  - **VEX Robotics Competition**
   - **RoboCup**
+  - **Meza Robotics Competition**
 - Experience in:
   - Robot design & programming  
   - Sensors & motor control  
@@ -74,7 +80,7 @@ I am also passionate about **STEM education**, robotics competitions, and mentor
 ### 🩺 Safe Heart – IoT Smart Health Monitoring System *(In Progress)*
 - Wearable biomedical device for real-time health monitoring  
 - ESP32 + SIM800L + Firebase  
-- Measures heart rate, SpO₂, temperature, blood pressure, and ECG  
+- Measures HR, SpO₂, temperature, BP, ECG  
 - Emergency alerts with Google Maps integration  
 - Designed for future commercial deployment  
 - 3D enclosure modeled in SolidWorks  
@@ -82,7 +88,7 @@ I am also passionate about **STEM education**, robotics competitions, and mentor
 ---
 
 ### 🛒 Smart Shopping Cart
-- IoT-enabled shopping cart with dynamic price display  
+- IoT-enabled cart with dynamic price display  
 - Weight measurement & obstacle detection  
 - Follows the customer using ultrasonic sensors  
 - Bluetooth mobile control  
@@ -127,21 +133,18 @@ B.Sc. in Mechatronics Engineering (2022 – 2026)
 ---
 
 ## 🚀 Interests
-- Robotics & STEM education  
 - Building embedded & IoT projects  
 - Teaching & mentoring students  
 - Competitive programming (ICPC, HackerRank)  
+- STEM education & robotics innovation  
 - Exploring new technologies  
 
 ---
 
 ## 📫 Contact
-I’m always interested in:
-- STEM education programs  
-- Robotics competitions  
-- Technical leadership roles  
-- Embedded & IoT projects  
+I’m open to:
+- Technical Manager roles  
+- Competition Manager roles  
+- Robotics & STEM education programs  
 
 📩 Feel free to reach out via email or LinkedIn.
-
----

@@ -37,7 +37,7 @@ Actively seeking roles in **Technical Management, Competition Management, and Ad
 ### 🔹 Embedded Systems
 - C / C++ / Embedded C  
 - ESP32, AVR, PIC  
-- Timers, Interrupts, RTOS (basic)  
+- Timers, Interrupts, RTOS  
 - Drivers Development & HAL  
 - UART, SPI, I2C, ADC, PWM  
 

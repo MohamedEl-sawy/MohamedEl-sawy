@@ -30,7 +30,7 @@
 
 ---
 
-## ⚡ Professional Summary
+## ⚡ Summary
 Mechatronics Engineer with strong hands-on experience in **Embedded Systems, Robotics, and IoT**.  
 Experienced in building **end-to-end technical solutions**, mentoring students, training robotics teams, and contributing to **STEM education programs and competitions**.  
 Actively seeking roles in **Technical Management, Competition Management, and Advanced Robotics Instruction**.

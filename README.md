@@ -22,6 +22,11 @@
 🔗 <a href="https://www.linkedin.com/in/mohamed-fawzy-b33ab8272">LinkedIn</a> •
 🔗 <a href="https://github.com/MohamedEl-sawy">GitHub</a>
 </p>
+<p align="center">
+  <a href="Mohamed_Fawzy_Sawy_CV.pdf">
+    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 

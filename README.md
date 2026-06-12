@@ -1,155 +1,146 @@
-<p align="center">
-  <img src="https://camo.githubusercontent.com/b3ce8fcb16b1cd0ac29fd3772d599bc62587f919aeb0e00e88344ebfd54b569c/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" alt="Welcome Banner" width="600"/>
-</p>
-
-<h1 align="center">👨‍💻 Mohamed Fawzy Sawy</h1>
-<h3 align="center">Mechatronics Engineer | Embedded Systems | Robotics | IoT</h3>
+# 👨‍💻 Mohamed Fawzy Elsawy
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ESP32-Embedded-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arduino-Robotics-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IoT-Cloud-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STEM-Education-purple?style=for-the-badge"/>
+  <img src="https://camo.githubusercontent.com/b3ce8fcb16b1cd0ac29fd3772d599bc62587f919aeb0e00e88344ebfd54b569c/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" width="600"/>
 </p>
 
-<p align="center">
-📍 Cairo, Egypt &nbsp; | &nbsp;
-📧 0mohamedelsawy@gmail.com &nbsp; | &nbsp;
-📱 +20 01008611382
-</p>
+<h3 align="center">
+Embedded & IoT Software Engineer | Robotics | Automation
+</h3>
 
 <p align="center">
-🔗 <a href="https://www.linkedin.com/in/mohamed-fawzy-b33ab8272">LinkedIn</a> •
-🔗 <a href="https://github.com/MohamedEl-sawy">GitHub</a>
-</p>
-<p align="center">
-  <a href="Mohamed_Fawzy_Resume.pdf">
-    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge"/>
-  </a>
+📍 Cairo, Egypt  
+📧 0mohamedelsawy@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/mohamed-fawzy-b33ab8272  
+🔗 GitHub: https://github.com/MohamedEl-sawy  
 </p>
 
 ---
 
-## ⚡ Summary
-Mechatronics Engineer with strong hands-on experience in **Embedded Systems, Robotics, and IoT**.  
-Experienced in building **end-to-end technical solutions**, mentoring students, training robotics teams, and contributing to **STEM education programs and competitions**.  
-Actively seeking roles in **Technical Management, Competition Management, and Advanced Robotics Instruction**.
+# ⚡ About Me
+
+Embedded & IoT Software Engineer with hands-on experience in firmware development, robotics, automation, and smart embedded systems.
+
+I focus on building real-world systems using ESP32, AVR microcontrollers, sensors, and IoT cloud platforms with strong attention to debugging, performance optimization, and system reliability.
+
+Experience includes embedded development, IoT system design, hardware/software integration, and mentoring robotics teams.
 
 ---
 
-## 🛠 Technical Skills
+# 🛠 Tech Stack
 
-### 🔹 Embedded Systems
-- C / C++ / Embedded C  
-- ESP32, AVR, PIC  
-- Timers, Interrupts, RTOS  
-- Drivers Development & HAL  
-- UART, SPI, I2C, ADC, PWM  
+## Programming Languages
+- C / C++
+- Embedded C
+- Python
+- JavaScript
+- HTML / CSS
+- TypeScript
 
-### 🔹 IoT & Connectivity
-- MQTT, HTTP  
-- Firebase & Cloud Integration  
-- Wi-Fi, Bluetooth  
-- GSM (SIM800L)  
+## Embedded Systems
+- ESP32
+- AVR Microcontrollers
+- PIC Microcontrollers
+- FreeRTOS Basics
+- UART / SPI / I2C / ADC / PWM
+- Interrupts & Timers
+- Drivers Development
+- Embedded Debugging
 
-### 🔹 Hardware & Design
-- PCB Design (EasyEDA)  
-- Sensors Integration  
-- Circuit Debugging & Testing  
-- SolidWorks, AutoCAD  
+## IoT & Communication
+- MQTT
+- HTTP / REST APIs
+- Firebase
+- Wi-Fi / Bluetooth
+- GSM Modules (SIM800L)
 
-### 🔹 Software & Tools
-- PlatformIO, Arduino IDE, Proteus  
-- VS Code, Eclipse  
-- Python, HTML, CSS, JavaScript  
+## Hardware & Tools
+- PCB Design (EasyEDA)
+- Circuit Debugging
+- Sensors Integration
+- SolidWorks
+- AutoCAD
 
----
-
-## 🤖 Robotics & Competitions
-- Participated in and trained teams for:
-  - **WRO** (World Robot Olympiad)
-  - **FLL** (FIRST LEGO League)
-  - **VEX Robotics Competition**
-  - **RoboCup**
-  - **Meza Robotics Competition**
-- Experience in:
-  - Robot design & programming  
-  - Sensors & motor control  
-  - Competition rules & strategy  
-  - Team mentoring & technical training  
-
----
-
-## 📌 Featured Projects
-
-### 🩺 Safe Heart – IoT Smart Health Monitoring System *(In Progress)*
-- Wearable biomedical device for real-time health monitoring  
-- ESP32 + SIM800L + Firebase  
-- Measures HR, SpO₂, temperature, BP, ECG  
-- Emergency alerts with Google Maps integration  
-- Designed for future commercial deployment  
-- 3D enclosure modeled in SolidWorks  
+## Development Tools
+- PlatformIO
+- Arduino IDE
+- VS Code
+- Git & GitHub
+- Proteus
 
 ---
 
-### 🛒 Smart Shopping Cart
-- IoT-enabled cart with dynamic price display  
-- Weight measurement & obstacle detection  
-- Follows the customer using ultrasonic sensors  
-- Bluetooth mobile control  
-- ESP32-based system  
+# 💼 Experience
+
+## Embedded & IoT Engineer Intern — Lotus Power
+- Developed embedded firmware using ESP32 and AVR microcontrollers.
+- Built IoT-based monitoring and automation systems.
+- Worked with real-time sensor data acquisition and cloud integration.
+- Implemented communication protocols (UART, SPI, I2C).
+- Debugged embedded systems and optimized firmware performance.
+- Supported hardware testing and system validation.
 
 ---
 
-### 🏃 Smart Treadmill System
-- PIR-based auto start/stop  
-- Speed control using PWM  
-- Implemented using AVR microcontroller  
+## Robotics & STEM Instructor
+- Trained students in robotics, embedded systems, and Arduino/ESP32 programming.
+- Mentored teams in WRO, FLL, VEX Robotics, and RoboCup competitions.
+- Designed workshops covering sensors, automation, and IoT systems.
+- Improved students’ problem-solving and debugging skills.
 
 ---
 
-### 🏫 Smart Attendance System
-- ESP32 + RFID-based attendance  
-- Real-time cloud logging  
-- Excel integration  
-- Audio/visual feedback system  
+## Freelance Embedded & IoT Developer
+- Built embedded and IoT solutions for automation and smart systems.
+- Designed complete systems (hardware + firmware + cloud integration).
+- Worked with ESP32, Firebase, MQTT, GSM, and Bluetooth systems.
 
 ---
 
-## 🎓 Education
-**Higher Technology Institute**  
-B.Sc. in Mechatronics Engineering (2022 – 2026)  
-- Major: Embedded Systems & IoT  
-- GPA: **A+ (Top-ranked)**  
+# 🚀 Featured Projects
+
+## 🩺 Safe Heart — IoT Health Monitoring System
+- ESP32 + SIM800L + Firebase architecture
+- Real-time monitoring (HR, SpO₂, ECG, temperature)
+- Emergency alert system with location tracking
+- Cloud dashboard for remote monitoring
 
 ---
 
-## 🧑‍🏫 Experience
-
-### Embedded & IoT Engineer Intern – Lotus Power
-- Firmware development for ESP32 & AVR  
-- IoT dashboards and cloud-connected systems  
-- PCB design and prototype testing  
-
-### Freelance Embedded & IoT Engineer
-- Delivered embedded and IoT solutions for automation and smart devices  
-- Full system development (hardware, firmware, and cloud integration)  
+## 🤖 EMG Robotic Hand
+- Muscle signal (EMG) controlled robotic hand
+- Multi-servo synchronization system
+- Real-time embedded control using ESP32
+- Motion smoothing and signal processing
 
 ---
 
-## 🚀 Interests
-- Building embedded & IoT projects  
-- Teaching & mentoring students  
-- Competitive programming (ICPC, HackerRank)  
-- STEM education & robotics innovation  
-- Exploring new technologies  
+## 🛒 Smart Shopping Cart
+- IoT smart cart system with obstacle detection
+- Customer-following system using ultrasonic sensors
+- Bluetooth mobile control
+- Real-time embedded processing
 
 ---
 
-## 📫 Contact
-I’m open to:
-- Technical Manager roles  
-- Competition Manager roles  
-- Robotics & STEM education programs  
+## 🏫 Smart Attendance System
+- RFID + ESP32 attendance system
+- Firebase real-time logging
+- Notification and reporting system
 
-📩 Feel free to reach out via email or LinkedIn.
+---
+
+# 🎯 Interests
+- Embedded Systems & Firmware Development
+- IoT Smart Systems
+- Robotics & Automation
+- System Design & Debugging
+- Teaching & Mentoring
+
+---
+
+# 📫 Contact
+
+📧 Email: 0mohamedelsawy@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/mohamed-fawzy-b33ab8272  
+🔗 GitHub: https://github.com/MohamedEl-sawy  

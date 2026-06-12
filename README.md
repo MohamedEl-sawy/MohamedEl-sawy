@@ -72,7 +72,7 @@ Experience includes embedded development, IoT system design, hardware/software i
 
 # 💼 Experience
 
-## Embedded & IoT Engineer Intern — Lotus Power
+## Embedded & IoT Engineer — Lotus Power
 - Developed embedded firmware using ESP32 and AVR microcontrollers.
 - Built IoT-based monitoring and automation systems.
 - Worked with real-time sensor data acquisition and cloud integration.
